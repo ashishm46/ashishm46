@@ -15,7 +15,6 @@ currently working on network security and cyber security👨‍💻
 - **HTML, CSS, JavaScript, C,Python,and Php**
 - I have done a project on  **REal-Time Computer Vision (OpenCV/Tensorflow)**
 
-## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://github.com/ashish4626)
-- 🎯 Check out my Instagram A/C: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_mishra228/)
+- 🎯 Check out my Instagram Profile: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_mishra228/)
