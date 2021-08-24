@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/ashish4626) 
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/ashishm46) 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/ashish-mishra-487b1b19b) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](gmailto:ashish.bipulmishra@gmail.com)
 
@@ -12,7 +12,7 @@ I am studying Computer Science Engineering from KIPM College of Engineering and 
 currently working on network security and cyber security👨‍💻
 
 ## ⚡ Skills
-- **HTML, CSS, JavaScript, C,Python,and Php**
+- **HTML, CSS, JavaScript,Linux,DBMS, C,Python,and Php**
 - I have done a project on  **REal-Time Computer Vision (OpenCV/Tensorflow)**
 
 - 💬 Ask me about anything and everything.
