@@ -1,4 +1,4 @@
-<h2> Hello Friends <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hii<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
@@ -16,5 +16,5 @@ currently working on network security and cyber security👨‍💻
 - I have done a project on  **REal-Time Computer Vision (OpenCV/Tensorflow)**
 
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://github.com/ashish4626)
+- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://github.com/ashishm46)
 - 🎯 Check out my Instagram Profile: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_mishra228/)
