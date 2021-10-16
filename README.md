@@ -8,13 +8,17 @@
 
 I'm Ashish Mishra
 
-I am studying Computer Science Engineering from KIPM College of Engineering and Technology. 
-currently working on network security and cyber security👨‍💻
+I am studying Computer Science Engineering at- Dr APJ Abdul Kalam Technical University Lucknow(2K18-22). 
+Currently Working on Network Security and Cyber Security👨‍💻
 
 ## ⚡ Skills
-- **HTML, CSS, JavaScript,Linux,DBMS, C,Python,and Php**
-- I have done a project on  **REal-Time Computer Vision (OpenCV/Tensorflow)**
+- **HTML, CSS, Full-Stack Web Development, Kali Linux, DBMS, MySql, C, C++, Python,Machine Learning & Php**
+- My Projects on :
+   1> **REal-Time Computer Vision by using Python**
+   2> **E-mail Spam Detection Using Machine Learnings at Prutor@IITK**
 
-- 💬 Ask me about anything and everything.
+
+- 💬 Ask me About Anything
+-📞me For Web Development💻
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://github.com/ashishm46)
 - 🎯 Check out my Instagram Profile: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_mishra228/)
