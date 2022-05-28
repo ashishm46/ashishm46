@@ -14,8 +14,9 @@ Currently Working on Network Security and Cyber Security👨‍💻
 ## ⚡ Skills
 - **HTML, CSS, Full-Stack Web Development, Kali Linux, DBMS, MySql, C, C++, Python,Machine Learning & Php**
 - My Projects on :
-  ##  1> **REal-Time Computer Vision by using Python**
+  ##  1> **Real-Time Computer Vision by using Python**
   ##  2> **E-mail Spam Detection Using Machine Learnings at Prutor@IITK**
+  ##  3> **Face Recognition Based Attendance Monitoring System** Final Year Major Project 
 
 
 - 💬 Ask me About Anything
