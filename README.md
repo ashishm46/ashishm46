@@ -12,7 +12,7 @@ Studied Computer Science Engineering at- Dr APJ Abdul Kalam Technical University
 Currently Working on Network Security and Cyber Security👨‍💻
 
 ## ⚡ Skills
-- **HTML, CSS, Full-Stack Web Development, Kali Linux, DBMS, MySql, C, C++, Python,Machine Learning & Php**
+- **JavaScript, HTML, CSS, Full-Stack Web Development, Kali Linux, DBMS, MySql, C, C++, Python,Machine Learning & Php**
 - My Projects on :
   ###  1> **Real-Time Computer Vision by using Python**
   ###  2> **E-mail Spam Detection Using Machine Learnings at Prutor@IITK**
