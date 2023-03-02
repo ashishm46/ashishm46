@@ -16,8 +16,9 @@ Currently Working on Network Security and Cyber Security👨‍💻
 - My Projects on :
   ###  1> **Real-Time Computer Vision by using Python**
   ###  2> **E-mail Spam Detection Using Machine Learnings at Prutor@IITK**
-  ###  3> **Face Recognition Based Attendance Monitoring System** Final Year Major Project 
+  ###  3> **Face Recognition Based Attendance Monitoring System Final Year Major Project**
   ###  4> **School Management System Using C Programming** 
+  ###  5> **Created a website using HTML, CSS & Bootstrap for a School WebPage**
 
 
 - 💬 Ask me About Anything
