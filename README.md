@@ -8,7 +8,7 @@
 
 I'm Ashish Mishra
 
-I am studying Computer Science Engineering at- Dr APJ Abdul Kalam Technical University Lucknow(2K18-22). 
+Studied Computer Science Engineering at- Dr APJ Abdul Kalam Technical University Lucknow(2K18-22). 
 Currently Working on Network Security and Cyber Security👨‍💻
 
 ## ⚡ Skills
